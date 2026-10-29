@@ -67,9 +67,26 @@ I am an **AI Engineer** focused on building and deploying end-to-end AI systems,
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=abdulrazaq3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazaq3&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <!-- بطاقة الإحصائيات العامة + أكثر اللغات استخداماً -->
+  <a href="https://github.com/abdulrazaq3">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdulrazaq3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Abdulrazaq's GitHub Stats" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazaq3&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+  
+  <br/>
+
+  <!-- بطاقة الاستمرارية (Streak) -->
+  <a href="https://github.com/abdulrazaq3">
+    <img height="170em" src="https://streak-stats.demolab.com?user=abdulrazaq3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+
+  <!-- الرسم البياني للنشاط (Activity Graph) -->
+  <a href="https://github.com/abdulrazaq3">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrazaq3&theme=tokyo-night&hide_border=true&area=true" alt="Abdulrazaq's Activity Graph" />
+  </a>
 </div>
